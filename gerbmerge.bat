@@ -1,0 +1,1 @@
+c:\python27\python c:\python27\lib\site-packages\gerbmerge\gerbmerge.py panel.cfg panel.layout
